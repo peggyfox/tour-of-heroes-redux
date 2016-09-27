@@ -1,3 +1,1 @@
-### Angular Documentation Example 
-
-Tour of Heroes: Part 6
+### Angular 2 Tour of Heroes Redux Tutorial 
